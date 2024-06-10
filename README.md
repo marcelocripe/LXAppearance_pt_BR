@@ -1,9 +1,11 @@
 # LXAppearance_pt_BR
 
 Repositório oficial do programa "LXAppearance"
+
 https://github.com/lxde/lxappearance/
 e
 https://github.com/lxde/lxappearance/blob/master/po/pt_BR.po
+
 
 Traduções revisadas por marcelocripe:
 
