@@ -39,7 +39,7 @@ $ sudo cp lxappearance.mo /usr/share/locale/pt_BR/LC_MESSAGES
 
 Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/application.
 
-$ sudo cp lxappearance.desktop /usr/share/application
+$ sudo cp lxappearance.desktop /usr/share/applications
 
 Comando para escrever globalmente todas as entradas dos menus do antiX:
 
