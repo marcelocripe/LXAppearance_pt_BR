@@ -37,7 +37,7 @@ $ sudo cp lxappearance.mo /usr/share/locale/pt_BR/LC_MESSAGES
 
 "lxappearance.desktop":
 
-Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/application.
+Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/applications.
 
 $ sudo cp lxappearance.desktop /usr/share/applications
 
