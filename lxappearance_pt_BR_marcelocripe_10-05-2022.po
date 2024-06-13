@@ -62,7 +62,7 @@ msgstr "Tradutores voluntários do idioma português do Brasil - ‘pt_BR’:\n\
 "Fábio Antunes <fabio.antunes@hotmail.com>, 2008.\n"
 "Felipe Braga <fbobraga@gmail.com>, 2015.\n"
 "Henrique P. Machado <hpmachado@gnome.org>, 2008-2010.\n"
-"marcelocripe <marcelocripe@gmail.com>, 2022-2024."
+"marcelocripe <marcelocripe@gmail.com>, 2022-2024.\n"
 "Og Maciel <ogmaciel@gnome.org>, 2009.\n"
 "Sérgio B. Cipolla <secipolla@gmail.com>, 2010-2011.\n"
 
