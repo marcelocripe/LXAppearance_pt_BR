@@ -68,7 +68,7 @@ msgstr "Tradutores voluntários do idioma português do Brasil - ‘pt_BR’:\n\
 
 #: ../data/ui/lxappearance.glade.h:2
 msgid "Preview of the selected widget style"
-msgstr "Visualização do estilo do tema da janela selecionada"
+msgstr "Pré-visualização do tema da janela que foi selecionado"
 
 #: ../data/ui/lxappearance.glade.h:3
 msgid "_File"
