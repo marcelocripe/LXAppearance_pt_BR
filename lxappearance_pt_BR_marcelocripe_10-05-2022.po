@@ -64,7 +64,7 @@ msgstr "Tradutores voluntários do idioma português do Brasil - ‘pt_BR’:\n\
 "Henrique P. Machado <hpmachado@gnome.org>, 2008-2010.\n"
 "marcelocripe <marcelocripe@gmail.com>, 2022-2024.\n"
 "Og Maciel <ogmaciel@gnome.org>, 2009.\n"
-"Sérgio B. Cipolla <secipolla@gmail.com>, 2010-2011.\n"
+"Sérgio B. Cipolla <secipolla@gmail.com>, 2010-2011."
 
 #: ../data/ui/lxappearance.glade.h:2
 msgid "Preview of the selected widget style"
@@ -192,7 +192,7 @@ msgstr ""
 "<b>Observação:</b> Nem todos os programas que são executados na área de "
 "trabalho são compatíveis com as alterações do tema do cursor em tempo real. "
 "Portanto, as alterações realizadas aqui podem não ser aplicadas em todos os "
-"programas até próxima vez que a sessão for iniciada."
+"programas e só serão aplicadas quando a sessão for reiniciada."
 
 #: ../data/ui/lxappearance.glade.h:32
 msgid "Mouse Cursor"
