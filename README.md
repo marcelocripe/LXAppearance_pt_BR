@@ -11,7 +11,7 @@ Traduções revisadas por marcelocripe:
 
 https://github.com/marcelocripe/LXAppearance_pt_BR/blob/main/lxappearance_pt_BR_marcelocripe_10-05-2022.po
 
-https://github.com/marcelocripe/LXAppearance_pt_BR/blob/main/lxappearance_pt_BR_marcelocripe_12-06-2024.po
+https://github.com/marcelocripe/LXAppearance_pt_BR/blob/main/lxappearance_pt_BR_marcelocripe_22-07-2024.po
 
 https://github.com/marcelocripe/LXAppearance_pt_BR/blob/main/lxappearance.desktop
 
@@ -27,7 +27,7 @@ $ msgfmt lxappearance_pt_BR_marcelocripe_10-05-2022.po -o lxappearance.mo
 
 ou
 
-$ msgfmt lxappearance_pt_BR_marcelocripe_12-06-2024.po -o lxappearance.mo
+$ msgfmt lxappearance_pt_BR_marcelocripe_22-07-2024.po -o lxappearance.mo
 
 
 Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta do idioma "pt_BR".
