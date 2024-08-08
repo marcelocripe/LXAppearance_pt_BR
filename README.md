@@ -30,9 +30,11 @@ ou
 $ msgfmt lxappearance_pt_BR_marcelocripe_22-07-2024.po -o lxappearance.mo
 
 
+
 Comando para renomear o arquivo antigo da tradução com a extensão ".mo" que está na pasta do idioma "pt_BR".
 
 $ sudo mv /usr/share/locale/pt_BR/LC_MESSAGES/lxappearance.mo /usr/share/locale/pt_BR/LC_MESSAGES/lxappearance_antigo.mo
+
 
 
 Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta do idioma "pt_BR".
@@ -40,11 +42,13 @@ Comando para copiar o arquivo da tradução com a extensão ".mo" para a pasta d
 $ sudo cp lxappearance.mo /usr/share/locale/pt_BR/LC_MESSAGES
 
 
+
 "lxappearance.desktop":
 
 Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/applications.
 
 $ sudo cp lxappearance.desktop /usr/share/applications
+
 
 Comando para escrever globalmente todas as entradas dos menus do antiX:
 
